@@ -16,5 +16,5 @@ A passionate data engineer with expertise in building scalable and rubost data p
    - Ensuring data quality, integrity, and scalability
    - Collaborating on innovative projects in the data engineering domain
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shawonsimon/) shawonsymon@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shawonsimon/) | shawonsymon@gmail.com
 
