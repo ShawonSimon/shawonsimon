@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello, I'm Simon👋
 
-<!--
-**ShawonSimon/shawonsimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm Currently Exploring:
+   - Modern Data Stack (dbt, Airbyte, Databricks)
+   - AWS and GCP for data engineering
+   - How to architectect better data system
 
-Here are some ideas to get you started:
+- 👯 I’m looking to get employed 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Some courses i have completed include:
+   - [IBM Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-engineer)
+   - [Python for Everybody Specialization](https://www.coursera.org/specializations/python?)
+
+- 💡I'm Passionate About:
+   - Designing end-to-end data pipelines
+   - Ensuring data quality, integrity, and scalability
+   - Collaborating on innovative projects in the data engineering domain
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shawonsimon/) shawonsymon@gmail.com
+
